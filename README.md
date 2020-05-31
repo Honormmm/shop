@@ -30,7 +30,7 @@ python manage.py runserver
 
 ## Автор
 
-* **Alexander Antoshchuk**
+* **Балдин Денис Андреевич**
 
 ## License
 
